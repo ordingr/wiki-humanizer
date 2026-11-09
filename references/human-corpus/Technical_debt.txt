@@ -1,0 +1,33 @@
+# Technical debt
+# revision 1117539751, saved 2022-10-22T07:51:10Z
+# https://en.wikipedia.org/w/index.php?oldid=1117539751
+
+In software development, technical debt (also known as design debt or code debt) is the implied cost of additional rework caused by choosing an easy (limited) solution now instead of using a better approach that would take longer.
+
+Analogous with monetary debt, if technical debt is not repaid, it can accumulate "interest", making it harder to implement changes. Unaddressed technical debt increases software entropy and cost of further rework. Similarly to monetary debt, technical debt is not necessarily a bad thing, and sometimes (e.g. as a proof-of-concept) is required to move projects forward. On the other hand, some experts claim that the "technical debt" metaphor tends to minimize the ramifications, which results in insufficient prioritization of the necessary work to correct it.
+
+As a change is started on a codebase, there is often the need to make other coordinated changes in other parts of the codebase or documentation. Changes required that are not completed are considered debt, and until paid, will incur interest on top of interest, making it cumbersome to build a project. Although the term is primarily used in software development, it can also be applied to other professions.
+
+"Interest payments" are caused by both the necessary local maintenance and the absence of maintenance by other users of the project. Ongoing development in the upstream project can increase the cost of "paying off the debt" in the future. One pays off the debt by simply completing the uncompleted work.
+
+The buildup of technical debt is a major cause for projects to miss deadlines. It is difficult to estimate exactly how much work is necessary to pay off the debt. For each change that is initiated, an uncertain amount of uncompleted work is committed to the project. The deadline is missed when the project realizes that there is more uncompleted work (debt) than there is time to complete it in. To have predictable release schedules, a development team should limit the amount of work in progress in order to keep the amount of uncompleted work (or debt) small at all times.
+
+If enough work is completed on a project to not present a barrier to submission, then a project will be released which still carries a substantial amount of technical debt. If this software reaches production, then the risks of implementing any future refactors which might address the technical debt increase dramatically. Modifying production code carries the risk of outages, actual financial losses and possibly legal repercussions if contracts involve service-level agreements (SLA). For this reason we can view the carrying of technical debt to production almost as if it were an increase in interest rate and the only time this decreases is when deployments are turned down and retired.
+
+"As an evolving program is continually changed, its complexity, reflecting deteriorating structure, increases unless work is done to maintain or reduce it."
+
+While Manny Lehman's Law already indicated that evolving programs continually add to their complexity and deteriorating structure unless work is done to maintain them, Ward Cunningham first drew the comparison between technical complexity and debt in a 1992 experience report:
+
+"Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite... The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the debt load of an unconsolidated implementation, object-oriented or otherwise."
+
+In his 2004 text, Refactoring to Patterns, Joshua Kerievsky presents a comparable argument concerning the costs associated with architectural negligence, which he describes as "design debt".
+
+Activities that might be postponed include documentation, writing tests, attending to TODO comments and tackling compiler and static code analysis warnings. Other instances of technical debt include knowledge that isn't shared around the organization and code that is too confusing to be modified easily.
+
+The cost of never paying down this technical debt is clear; eventually the cost to deliver functionality will become so slow that it is easy for a well-designed competitive software product to overtake the badly-designed software in terms of features. In my experience, badly designed software can also lead to a more stressed engineering workforce, in turn leading higher staff churn (which in turn affects costs and productivity when delivering features). Additionally, due to the complexity in a given codebase, the ability to accurately estimate work will also disappear. In cases where development agencies charge on a feature-to-feature basis, the profit margin for delivering code will eventually deteriorate.
+
+Grady Booch compares how evolving cities is similar to evolving software-intensive systems and how lack of refactoring can lead to technical debt.
+
+"The concept of technical debt is central to understanding the forces that weigh upon systems, for it often explains where, how, and why a system is stressed. In cities, repairs on infrastructure are often delayed and incremental changes are made rather than bold ones. So it is again in software-intensive systems. Users suffer the consequences of capricious complexity, delayed improvements, and insufficient incremental change; the developers who evolve such systems suffer the slings and arrows of never being able to write quality code because they are always trying to catch up."
+
+In open source software, postponing sending local changes to the upstream project is a form of technical debt.

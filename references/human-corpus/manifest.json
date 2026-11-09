@@ -1,0 +1,373 @@
+{
+  "Ada Lovelace": {
+    "file": "Ada_Lovelace.txt",
+    "revid": 1117989035,
+    "timestamp": "2022-10-24T16:20:56Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117989035",
+    "words": 5537
+  },
+  "Agile software development": {
+    "file": "Agile_software_development.txt",
+    "revid": 1118312171,
+    "timestamp": "2022-10-26T08:33:37Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118312171",
+    "words": 5633
+  },
+  "Alan Turing": {
+    "file": "Alan_Turing.txt",
+    "revid": 1117844782,
+    "timestamp": "2022-10-23T21:42:36Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117844782",
+    "words": 8194
+  },
+  "Antarctica": {
+    "file": "Antarctica.txt",
+    "revid": 1118211655,
+    "timestamp": "2022-10-25T18:59:41Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118211655",
+    "words": 6882
+  },
+  "Apollo 8": {
+    "file": "Apollo_8.txt",
+    "revid": 1115681201,
+    "timestamp": "2022-10-12T17:19:11Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1115681201",
+    "words": 8318
+  },
+  "Bacteria": {
+    "file": "Bacteria.txt",
+    "revid": 1117924525,
+    "timestamp": "2022-10-24T08:00:03Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117924525",
+    "words": 7396
+  },
+  "Battle of Hastings": {
+    "file": "Battle_of_Hastings.txt",
+    "revid": 1118498184,
+    "timestamp": "2022-10-27T09:32:48Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118498184",
+    "words": 5271
+  },
+  "Byzantine Empire": {
+    "file": "Byzantine_Empire.txt",
+    "revid": 1119259203,
+    "timestamp": "2022-10-31T14:45:06Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119259203",
+    "words": 16070
+  },
+  "Charles Darwin": {
+    "file": "Charles_Darwin.txt",
+    "revid": 1118339649,
+    "timestamp": "2022-10-26T13:22:57Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118339649",
+    "words": 10750
+  },
+  "Cloud computing": {
+    "file": "Cloud_computing.txt",
+    "revid": 1119297491,
+    "timestamp": "2022-10-31T19:10:33Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119297491",
+    "words": 5337
+  },
+  "Coffee": {
+    "file": "Coffee.txt",
+    "revid": 1117436830,
+    "timestamp": "2022-10-21T18:45:21Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117436830",
+    "words": 8247
+  },
+  "Computer security": {
+    "file": "Computer_security.txt",
+    "revid": 1119107456,
+    "timestamp": "2022-10-30T19:19:34Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119107456",
+    "words": 8619
+  },
+  "Continuous integration": {
+    "file": "Continuous_integration.txt",
+    "revid": 1105033383,
+    "timestamp": "2022-08-18T05:07:47Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1105033383",
+    "words": 1556
+  },
+  "Cross-site scripting": {
+    "file": "Cross-site_scripting.txt",
+    "revid": 1117422046,
+    "timestamp": "2022-10-21T17:07:14Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117422046",
+    "words": 3103
+  },
+  "DevOps": {
+    "file": "DevOps.txt",
+    "revid": 1119119871,
+    "timestamp": "2022-10-30T20:44:02Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119119871",
+    "words": 1242
+  },
+  "Elephant": {
+    "file": "Elephant.txt",
+    "revid": 1118708740,
+    "timestamp": "2022-10-28T12:24:48Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118708740",
+    "words": 10439
+  },
+  "Genghis Khan": {
+    "file": "Genghis_Khan.txt",
+    "revid": 1119291144,
+    "timestamp": "2022-10-31T18:19:17Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119291144",
+    "words": 8569
+  },
+  "Heartbleed": {
+    "file": "Heartbleed.txt",
+    "revid": 1101662608,
+    "timestamp": "2022-08-01T05:46:27Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1101662608",
+    "words": 3878
+  },
+  "Hubble Space Telescope": {
+    "file": "Hubble_Space_Telescope.txt",
+    "revid": 1119250452,
+    "timestamp": "2022-10-31T13:45:16Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119250452",
+    "words": 12499
+  },
+  "Industrial Revolution": {
+    "file": "Industrial_Revolution.txt",
+    "revid": 1118745064,
+    "timestamp": "2022-10-28T16:43:46Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118745064",
+    "words": 21085
+  },
+  "Inventory": {
+    "file": "Inventory.txt",
+    "revid": 1106171328,
+    "timestamp": "2022-08-23T13:24:40Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1106171328",
+    "words": 3496
+  },
+  "Kubernetes": {
+    "file": "Kubernetes.txt",
+    "revid": 1119215305,
+    "timestamp": "2022-10-31T08:47:48Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119215305",
+    "words": 2946
+  },
+  "Logistics": {
+    "file": "Logistics.txt",
+    "revid": 1117817432,
+    "timestamp": "2022-10-23T19:03:21Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117817432",
+    "words": 4452
+  },
+  "Microsoft Excel": {
+    "file": "Microsoft_Excel.txt",
+    "revid": 1118520223,
+    "timestamp": "2022-10-27T12:58:09Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118520223",
+    "words": 4656
+  },
+  "Multi-factor authentication": {
+    "file": "Multi-factor_authentication.txt",
+    "revid": 1118222159,
+    "timestamp": "2022-10-25T19:56:22Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118222159",
+    "words": 2526
+  },
+  "Oxygen": {
+    "file": "Oxygen.txt",
+    "revid": 1117514166,
+    "timestamp": "2022-10-22T04:02:59Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117514166",
+    "words": 7153
+  },
+  "Periodic table": {
+    "file": "Periodic_table.txt",
+    "revid": 1119140524,
+    "timestamp": "2022-10-30T23:09:33Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119140524",
+    "words": 11895
+  },
+  "Phishing": {
+    "file": "Phishing.txt",
+    "revid": 1118586635,
+    "timestamp": "2022-10-27T20:32:54Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118586635",
+    "words": 4223
+  },
+  "Photosynthesis": {
+    "file": "Photosynthesis.txt",
+    "revid": 1109753256,
+    "timestamp": "2022-09-11T17:59:34Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1109753256",
+    "words": 6486
+  },
+  "Plate tectonics": {
+    "file": "Plate_tectonics.txt",
+    "revid": 1118666142,
+    "timestamp": "2022-10-28T06:26:04Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118666142",
+    "words": 7547
+  },
+  "Python (programming language)": {
+    "file": "Python_programming_language.txt",
+    "revid": 1119241250,
+    "timestamp": "2022-10-31T12:36:21Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119241250",
+    "words": 3696
+  },
+  "Ransomware": {
+    "file": "Ransomware.txt",
+    "revid": 1116415080,
+    "timestamp": "2022-10-16T12:58:42Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1116415080",
+    "words": 6246
+  },
+  "Relational database": {
+    "file": "Relational_database.txt",
+    "revid": 1116718100,
+    "timestamp": "2022-10-18T00:16:29Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1116718100",
+    "words": 2614
+  },
+  "REST": {
+    "file": "REST.txt",
+    "revid": 1118861753,
+    "timestamp": "2022-10-29T10:19:42Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118861753",
+    "words": 1775
+  },
+  "Sea": {
+    "file": "Sea.txt",
+    "revid": 1118720351,
+    "timestamp": "2022-10-28T13:47:59Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118720351",
+    "words": 11664
+  },
+  "Shipping container": {
+    "file": "Shipping_container.txt",
+    "revid": 1112976456,
+    "timestamp": "2022-09-29T02:30:10Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1112976456",
+    "words": 1073
+  },
+  "Software engineering": {
+    "file": "Software_engineering.txt",
+    "revid": 1118089007,
+    "timestamp": "2022-10-25T04:06:11Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118089007",
+    "words": 3389
+  },
+  "SQL": {
+    "file": "SQL.txt",
+    "revid": 1119270475,
+    "timestamp": "2022-10-31T16:02:21Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119270475",
+    "words": 1708
+  },
+  "SQL injection": {
+    "file": "SQL_injection.txt",
+    "revid": 1117629397,
+    "timestamp": "2022-10-22T19:12:51Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117629397",
+    "words": 1985
+  },
+  "Stuxnet": {
+    "file": "Stuxnet.txt",
+    "revid": 1117344428,
+    "timestamp": "2022-10-21T06:18:29Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117344428",
+    "words": 6690
+  },
+  "Sun": {
+    "file": "Sun.txt",
+    "revid": 1119053830,
+    "timestamp": "2022-10-30T13:09:54Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119053830",
+    "words": 10002
+  },
+  "Supply chain management": {
+    "file": "Supply_chain_management.txt",
+    "revid": 1118756368,
+    "timestamp": "2022-10-28T17:59:26Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118756368",
+    "words": 6746
+  },
+  "Systems engineering": {
+    "file": "Systems_engineering.txt",
+    "revid": 1117379859,
+    "timestamp": "2022-10-21T12:00:58Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117379859",
+    "words": 2529
+  },
+  "Technical debt": {
+    "file": "Technical_debt.txt",
+    "revid": 1117539751,
+    "timestamp": "2022-10-22T07:51:10Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117539751",
+    "words": 888
+  },
+  "Toronto": {
+    "file": "Toronto.txt",
+    "revid": 1117499876,
+    "timestamp": "2022-10-22T01:51:47Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1117499876",
+    "words": 12292
+  },
+  "Toyota Production System": {
+    "file": "Toyota_Production_System.txt",
+    "revid": 1112851659,
+    "timestamp": "2022-09-28T12:34:05Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1112851659",
+    "words": 989
+  },
+  "Transport Layer Security": {
+    "file": "Transport_Layer_Security.txt",
+    "revid": 1116665092,
+    "timestamp": "2022-10-17T18:34:05Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1116665092",
+    "words": 7286
+  },
+  "Tuberculosis": {
+    "file": "Tuberculosis.txt",
+    "revid": 1118917896,
+    "timestamp": "2022-10-29T18:03:29Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118917896",
+    "words": 7242
+  },
+  "Tyrannosaurus": {
+    "file": "Tyrannosaurus.txt",
+    "revid": 1118445367,
+    "timestamp": "2022-10-27T01:50:37Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118445367",
+    "words": 13003
+  },
+  "Venus": {
+    "file": "Venus.txt",
+    "revid": 1119114331,
+    "timestamp": "2022-10-30T20:06:51Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1119114331",
+    "words": 8058
+  },
+  "Version control": {
+    "file": "Version_control.txt",
+    "revid": 1118345775,
+    "timestamp": "2022-10-26T14:18:43Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118345775",
+    "words": 2707
+  },
+  "Vulnerability (computer security)": {
+    "file": "Vulnerability_computer_security.txt",
+    "revid": 1118963306,
+    "timestamp": "2022-10-30T00:25:51Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118963306",
+    "words": 1549
+  },
+  "Warehouse": {
+    "file": "Warehouse.txt",
+    "revid": 1118335833,
+    "timestamp": "2022-10-26T12:51:56Z",
+    "url": "https://en.wikipedia.org/w/index.php?oldid=1118335833",
+    "words": 4066
+  }
+}

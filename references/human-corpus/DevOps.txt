@@ -1,0 +1,49 @@
+# DevOps
+# revision 1119119871, saved 2022-10-30T20:44:02Z
+# https://en.wikipedia.org/w/index.php?oldid=1119119871
+
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops). It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; several DevOps aspects came from the Agile way of working.
+
+Other than it being a cross-functional combination (and a portmanteau) of the terms and concepts for "development" and "operations", academics and practitioners have not developed a universal definition for the term "DevOps". Most often, DevOps is characterized by key principles: shared ownership, workflow automation, and rapid feedback.
+
+From an academic perspective, Len Bass, Ingo Weber, and Liming Zhu—three computer science researchers from the CSIRO and the Software Engineering Institute—suggested defining DevOps as "a set of practices intended to reduce the time between committing a change to a system and the change being placed into normal production, while ensuring high quality".
+
+However, the term is used in multiple contexts. At its most successful, DevOps is a combination of specific practices, culture change, and tools.
+
+In 1993 the Telecommunications Information Networking Architecture Consortium (TINA-C) defined a Model of a Service Lifecycle that combined software development with (telecom) service operations.
+
+In 2009, the first conference named devopsdays was held in Ghent, Belgium. The conference was founded by Belgian consultant, project manager and agile practitioner Patrick Debois. The conference has now spread to other countries.
+
+In 2012, the State of DevOps report was conceived and launched by Alanna Brown at Puppet.
+
+As of 2014, the annual State of DevOps report was published by Nicole Forsgren, Gene Kim, Jez Humble and others. They stated that the adoption of DevOps was accelerating. Also in 2014, Lisa Crispin and Janet Gregory wrote the book More Agile Testing, containing a chapter on testing and DevOps.
+
+In 2016 the DORA metrics for throughput (deployment frequency, lead time for changes), and stability (mean time to recover, change failure rate) were published in the State of DevOps report.
+
+Many of the ideas fundamental to DevOps practices are inspired by, or mirror, other well known practices such as Lean and Deming's Plan-Do-Check-Act cycle, through to The Toyota Way and the Agile approach of breaking down components and batch sizes. Contrary to the "top-down" proscriptive approach and rigid framework of ITIL in the 1990s, DevOps is "bottom-up" and a flexible practice, created by software engineers, with software engineer needs in mind.
+
+The motivations for what has become modern DevOps and several standard DevOps practices such as automated build and test, continuous integration, and continuous delivery originated in the Agile world, which dates (informally) to the 1990s, and formally to 2001. Agile development teams using methods such as Extreme Programming couldn't "satisfy the customer through early and continuous delivery of valuable software" unless they subsumed the operations / infrastructure responsibilities associated with their applications, many of which they automated. Because Scrum emerged as the dominant Agile framework in the early 2000s and it omitted the engineering practices that were part of many Agile teams, the movement to automate operations / infrastructure functions splintered from Agile and expanded into what has become modern DevOps. Today, DevOps focuses on the deployment of developed software, whether it is developed using Agile oriented methodologies or other methodologies.
+
+ArchOps presents an extension for DevOps practice, starting from software architecture artifacts, instead of source code, for operation deployment. ArchOps states that architectural models are first-class entities in software development, deployment, and operations.
+
+Automation is a core principle for achieving DevOps success and CI/CD is a critical component. Plus, improved collaboration and communication between and within teams helps achieve faster time to market, with reduced risks.
+
+In 2003, Google developed site reliability engineering (SRE), an approach for releasing new features continuously into large-scale high-availability systems while maintaining high-quality end-user experience. While SRE predates the development of DevOps, they are generally viewed as being related to each other.
+
+Toyota production system, also known under the acronym TPS, was the inspiration for lean thinking with its focus on continuous improvement, kaizen, flow and small batches. The Andon cord principle to create fast feedback, swarm and solve problems stems from TPS.
+
+DevSecOps is an augmentation of DevOps to allow for security practices to be integrated into the DevOps approach. Contrary to a traditional centralized security team model, each delivery team is empowered to factor in the correct security controls into their software delivery. Security practices and testing are performed earlier in the development lifecycle, hence the term "shift left" can be used. Security is tested in three main areas: static, software composition, and dynamic.
+
+Checking the code statically via static application security testing (SAST) is white-box testing with special focus on security. Depending on the programming language, different tools are needed to do such static code analysis. The software composition is analyzed, especially libraries and their versions are checked against vulnerability lists published by CERT and other expert groups. When giving software to clients, licenses and its match to the one of the software distributed are in focus, especially copyleft licenses. Dynamic testing is also called black-box testing. The software is tested without knowing its inner functions. In DevSecOps it is on one hand called dynamically (DAST), or penetration testing. The goal is to catch, amongst others, errors like cross-site scripting, or SQL injection early. Threat types are for example published by the open web application security project, e.g. its TOP10. On the other hand, especially with microservices interactive application testing (IAST) is helpful to check which code is executed when running automated functional tests, the focus is to detect vulnerabilities within the applications. Contrary to SAST and DAST, IAST works inside the application.
+
+DevSecOps has also been described as a cultural shift involving a holistic approach to producing secure software by integrating security education, secure by design, and security automation
+
+DevOps initiatives can create cultural changes in companies by transforming the way operations, developers, and testers collaborate during the development and delivery processes. Getting these groups to work cohesively is a critical challenge in enterprise DevOps adoption. DevOps is as much about culture, as it is about the toolchain.
+
+Although in principle it is possible to practice DevOps with any architectural style, the microservices architectural style is becoming the standard for building continuously deployed systems. Small size service allows the architecture of an individual service to emerge through continuous refactoring.
+
+It also supports consistency, reliability, and efficiency within the organization, and is usually enabled by a shared code repository or version control. As DevOps researcher Ravi Teja Yarlagadda hypothesizes, "Through DevOps, there is an assumption that all functions can be carried out, controlled, and managed in a central place using a simple code."
+
+Many organizations use version control to power DevOps automation technologies like virtual machines, containerization (or OS-level virtualization), and CI/CD. The paper "DevOps: development of a toolchain in the banking domain" notes that with teams of developers working on the same project, "All developers need to make changes to the same codebase and sometimes edit even the same files. For efficient working, there has to be a system that helps engineers avoid conflicts and retain the codebase history," with the Git version control system and the GitHub platform referenced as examples.
+
+GitOps evolved from DevOps. The specific state of deployment configuration is version-controlled. Because the most popular version-control is Git, GitOps approach has been named after Git. Changes to configuration can be managed using code review practices, and can be rolled back using version-controlling.

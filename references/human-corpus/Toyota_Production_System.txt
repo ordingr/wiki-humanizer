@@ -1,0 +1,33 @@
+# Toyota Production System
+# revision 1112851659, saved 2022-09-28T12:34:05Z
+# https://en.wikipedia.org/w/index.php?oldid=1112851659
+
+The Toyota Production System (TPS) is an integrated socio-technical system, developed by Toyota, that comprises its management philosophy and practices. The TPS is a management system that organizes manufacturing and logistics for the automobile manufacturer, including interaction with suppliers and customers. The system is a major precursor of the more generic "lean manufacturing". Taiichi Ohno and Eiji Toyoda, Japanese industrial engineers, developed the system between 1948 and 1975.
+
+Originally called "just-in-time production", it builds on the approach created by the founder of Toyota, Sakichi Toyoda, his son Kiichiro Toyoda, and the engineer Taiichi Ohno. The principles underlying the TPS are embodied in The Toyota Way.
+
+The main objectives of the TPS are to design out overburden (muri) and inconsistency (mura), and to eliminate waste (muda). The most significant effects on process value delivery are achieved by designing a process capable of delivering the required results smoothly; by designing out "mura" (inconsistency). It is also crucial to ensure that the process is as flexible as necessary without stress or "muri" (overburden) since this generates "muda" (waste). Finally the tactical improvements of waste reduction or the elimination of muda are very valuable. There are eight kinds of muda that are addressed in the TPS:
+
+The elimination of waste has come to dominate the thinking of many when they look at the effects of the TPS because it is the most familiar of the three to implement. In the TPS many initiatives are triggered by reduction of inconsistency and over-run, both of which drive out waste without specific focus on its reduction.
+
+Toyota Motor Corporation published an official description of TPS for the first time in 1992; this booklet was revised in 1998. In the foreword it was said: "The TPS is a framework for conserving resources by eliminating waste. People who participate in the system learn to identify expenditures of material, effort and time that do not generate value for customers and furthermore we have avoided a 'how-to' approach. The booklet is not a manual. Rather it is an overview of the concepts, that underlie our production system. It is a reminder that lasting gains in productivity and quality are possible whenever and wherever management and employees are united in a commitment to positive change". TPS is grounded on two main conceptual pillars:
+
+Toyota has developed various tools to transfer these concepts into practice and apply them to specific requirements and conditions in the company and business.
+
+Toyota has long been recognized as a leader in the automotive manufacturing and production industry.
+
+Toyota received their inspiration for the system, not from the American automotive industry (at that time the world's largest by far), but from visiting a supermarket. The idea of just-in-time production was originated by Kiichiro Toyoda, founder of Toyota. The question was how to implement the idea. In reading descriptions of American supermarkets, Ohno saw the supermarket as the model for what he was trying to accomplish in the factory. A customer in a supermarket takes the desired amount of goods off the shelf and purchases them. The store restocks the shelf with enough new product to fill up the shelf space. Similarly, a work-center that needed parts would go to a "store shelf" (the inventory storage point) for the particular part and "buy" (withdraw) the quantity it needed, and the "shelf" would be "restocked" by the work-center that produced the part, making only enough to replace the inventory that had been withdrawn.
+
+While low inventory levels are a key outcome of the System, an important element of the philosophy behind its system is to work intelligently and eliminate waste so that only minimal inventory is needed. Many Western businesses, having observed Toyota's factories, set out to attack high inventory levels directly without understanding what made these reductions possible. The act of imitating without understanding the underlying concept or motivation may have led to the failure of those projects.
+
+The underlying principles, called the Toyota Way, have been outlined by Toyota as follows:
+
+What this means is that it is a system for thorough waste elimination. Here, waste refers to anything which does not advance the process, everything that does not increase added value. Many people settle for eliminating the waste that everyone recognizes as waste. But much remains that simply has not yet been recognized as waste or that people are willing to tolerate.
+
+People had resigned themselves to certain problems, had become hostage to routine and abandoned the practice of problem-solving. This going back to basics, exposing the real significance of problems and then making fundamental improvements, can be witnessed throughout the Toyota Production System.
+
+The principles of the Toyota Production System have been compared to production methods in the industrialization of construction.
+
+Toyota originally began sharing TPS with its parts suppliers in the 1990s. Because of interest in the program from other organizations, Toyota began offering instruction in the methodology to others. Toyota has even "donated" its system to charities, providing its engineering staff and techniques to non-profits in an effort to increase their efficiency and thus ability to serve people. For example, Toyota assisted the Food Bank For New York City to significantly decrease waiting times at soup kitchens, packing times at a food distribution center, and waiting times in a food pantry. Toyota announced on June 29, 2011 the launch of a national program to donate its Toyota Production System expertise towards nonprofit organizations with goal of improving their operations, extending their reach, and increasing their impact. By September, less than three months later, SBP, a disaster relief organization based out of New Orleans, reported that their home rebuilds had been reduced from 12 to 18 weeks, to 6 weeks. Additionally, employing Toyota methods (like kaizen) had reduced construction errors by 50 percent. The company included SBP among its first 20 community organizations, along with AmeriCorps.
+
+Taiichi Ohno's Workplace Management (2007) outlines in 38 chapters how to implement the TPS. Some important concepts are:
